@@ -1,0 +1,2 @@
+C:\Users\Artem\Documents\GitHub\aeroflot\x64\Debug\lab3-aeroflot.exe
+C:\Users\Artem\Documents\GitHub\aeroflot\x64\Debug\lab3-aeroflot.pdb
